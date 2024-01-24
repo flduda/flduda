@@ -1,8 +1,6 @@
 ### Hii! I'm Eduarda
 
-🔭 I’m currently working as an Au Pair and free lancign as a web-developer.
-🌱 I’m currently learning HTML, CSS and JS. 
- 📫 How to reach me: ferreiraduda99@gmail.com 😄 Pronouns: she/her
+Hey there! 🌟 I'm Eduarda, a 24yo soaking up the San Francisco vibes and making moves from Program Manager to aspiring Web Developer. Currently rocking the Au Pair life while diving deep into the coding universe with HTML, CSS, and JS. Feel free to drop me a line at ferreiraduda99@gmail.com—I'm all ears! Pronouns? She/Her. Excited about the journey ahead and ready to bring a burst of creativity to the tech world!  ✨💖🚀
 
 <div>
   <a href="https://github.com/flduda">
