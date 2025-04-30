@@ -34,6 +34,6 @@ But you can call me DUDA. I've been living in San Francisco for a while, and aft
 ###
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=flduda&locale=en&mode=daily&theme=dark&hide_border=false_radius=5&order=3" height="220" alt = "streak graph" />
+    <img src="https://streak-stats.demolab.com?user=flduda&locale=en&mode=daily&theme=light&hide_border=false_radius=5&order=3" height="220" alt = "streak graph" />
 </div>
 
