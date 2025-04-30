@@ -1,6 +1,6 @@
 ### Hii! I'm Eduarda
 
-But you can call me DUDA. I've been living in San Francisco for a while, and after years of neglecting coding, it seems like it's finally time to put that knowledge to use  ✨💖🚀
+But you can call me DUDA. I've been living in San Francisco for a while, and after years of neglecting coding it seems like it's finally time to put that knowledge to use  ✨💖🚀
 
     
 <div style="display: inline_block"><br>
