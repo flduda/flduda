@@ -31,7 +31,7 @@ But you can call me DUDA. I've been living in San Francisco for a while, and aft
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=flduda&locale=en&mode=daily&theme=buefy&hide_border=false_radius=5&order=3" height="220" alt = "streak graph" />
     <a href="https://github.com/flduda">
-        <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flduda&show_icons=true&theme=buefy"/>
+        <img height= "220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flduda&show_icons=true&theme=buefy"/>
 </div>
 
 
