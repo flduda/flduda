@@ -2,11 +2,6 @@
 
 But you can call me DUDA. I've been living in San Francisco for a while, and after years of neglecting coding, it seems like it's finally time to put that knowledge to use  ✨💖🚀
 
-<div>
-  <a href="https://github.com/flduda">
-    <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=flduda&show_icons=true&theme=buefy"/>
-    <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flduda&show_icons=true&theme=buefy"/>
-</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Duda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,4 +31,7 @@ But you can call me DUDA. I've been living in San Francisco for a while, and aft
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=flduda&locale=en&mode=daily&theme=light&hide_border=false_radius=5&order=3" height="220" alt = "streak graph" />
 </div>
+
+
+
 
