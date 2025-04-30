@@ -26,3 +26,14 @@ But you can call me DUDA. I've been living in San Francisco for a while, and aft
   <a href="https://www.linkedin.com/in/eduardaflima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+###
+
+<h3 align="left"> My Stats: </h3>
+
+###
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=flduda&locale=en&mode=daily&theme=dark&hide_border=false_radius=5&order=3" height="220" alt = "streak graph" />
+</div>
+
